@@ -1,0 +1,65 @@
+<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profil Pribadi</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #987070;
+        }
+        header {
+            background-color: #344C64;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        nav {
+            background-color: #577B8D;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        section {
+            padding: 20px;
+            margin: 10px;
+            background-color: white;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            text-align: center;
+            padding: 10px 0;
+            background-color: #344C64;
+            color: white;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+        .cv-photo {
+            display: block;
+            margin: 20px auto;
+            border-radius: 0%;
+            width: 50%;
+            height: 50%;
+        }
+        video {
+            display: block;
+            margin: 20px auto;
+            max-width: 100%;
+            width: 50%;
+            height: 50%;
+        }
+        
+            
+        
+    </style>
+</head>
+<body>
